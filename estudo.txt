@@ -1,0 +1,152 @@
+definição do scrum
+
+Scrum e um framework leve que ajuda as pessoas, times e organizações e gerar valor por meio de soluções adaptativas para problemas complexos.
+
+
+
+Em suma, Scrum requer um Scrum Master para promover um ambiente onde:
+1. Um Product Owner ordena o trabalho para um problema complexo em um Product
+Backlog.
+
+2. O Scrum Team transforma uma seleção do trabalho em um incremento de valor durante
+uma Sprint.
+
+3. O Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a
+próxima Sprint.
+
+4. Repita
+
+
+
+
+Quantos eventos formais o Scrum utiliza para inspeção e adaptação?
+
+Sprint Planning
+
+Daily Scrum
+
+Sprint Review
+
+Sprint Retrospective
+
+
+
+
+{
+"O framework Scrum é propositalmente incompleto,
+apenas definindo as partes necessárias para implementar a teoria"
+}
+
+
+
+Teoria do Scrum
+
+Scrum é baseado no empirismo e lean thinking. O empirismo afirma que o conhecimento vem
+da experiência e da tomada de decisões com base no que é observado. O lean thinking reduz o
+desperdício e se concentra no essencial.
+
+
+Scrum emprega uma abordagem iterativa e incremental para otimizar a previsibilidade e
+controlar o risco. Scrum envolve grupos de pessoas que, coletivamente, possuem todas as
+habilidades e conhecimentos necessários para fazer o trabalho e compartilhar ou adquirir essas
+habilidades conforme necessário.
+
+
+Scrum combina quatro eventos formais para inspeção e adaptação, contidos dentro de um
+evento, a Sprint. Esses eventos funcionam porque implementam os pilares empíricos do
+Scrum: transparência, inspeção e adaptação.
+
+
+
+Transparência
+
+O processo emergente e o trabalho devem ser visíveis tanto para quem executa o trabalho
+quanto para quem recebe o trabalho. Com o Scrum, decisões importantes são baseadas no
+estado percebido de seus três artefatos formais. Artefatos com baixa transparência podem
+levar a decisões que diminuem o valor e aumentam o risco.
+A transparência permite a inspeção. A inspeção sem transparência é enganosa e gera
+desperdício.
+
+
+Inspeção
+
+Os artefatos do Scrum e o progresso em direção às metas acordadas devem ser inspecionados
+com frequência e diligência para detectar variações ou problemas potencialmente indesejáveis.
+Para ajudar na inspeção, o Scrum fornece cadência na forma de seus cinco eventos.
+
+
+"Os eventosScrum são projetados para provocar mudanças."
+"A inspeção sem adaptação é considerada inútil." 
+"A inspeção habilita a adaptação".   
+
+
+Adaptação
+
+Se algum aspecto de um processo se desviar fora dos limites aceitáveis ou se o produto
+resultante for inaceitável, o processo que está sendo aplicado ou os materiais que estão sendo
+produzidos devem ser ajustados. O ajuste deve ser feito o mais rápido possível para minimizar
+novos desvios.
+A adaptação se torna mais difícil quando as pessoas envolvidas não são empoderadas ou
+auto-gerenciadas. Espera-se que um Scrum Team se adapte no momento em que aprende
+algo novo por meio da inspeção.
+
+
+Os Valores do Scrum
+O sucesso do uso do Scrum depende das pessoas se tornarem mais proficientes em viver
+cinco valores:
+Compromisso, Foco, Abertura, Respeito e Coragem
+O Scrum Team se compromete a atingir seus objetivos e suportar uns aos outros. Seu foco
+principal é o trabalho da Sprint para fazer o melhor progresso possível em direção a essas
+metas. O Scrum Team e seus stakeholders são abertos quanto ao trabalho e os desafios. Os
+membros do Scrum Team se respeitam quanto a serem pessoas capazes e independentes, e
+são respeitados como tal pelas pessoas com quem trabalham. Os membros do Scrum Team
+têm a coragem de, fazer a coisa certa e trabalhar em problemas difíceis
+Esses valores orientam o Scrum Team em relação ao seu trabalho, ações e comportamento.
+As decisões que são tomadas, os passos dados e a forma como o Scrum é usado devem
+
+6
+reforçar esses valores, não diminuí-los ou miná-los. Os membros do Scrum Team aprendem e
+exploram os valores à medida que trabalham com os eventos e artefatos do Scrum. Quando
+esses valores são incorporados pelo Scrum Team e pelas pessoas com quem trabalham, os
+pilares empíricos do Scrum de transparência, inspeção e adaptação ganham vida, construindo
+confiança.
+
+
+
+Scrum Team
+A unidade fundamental do Scrum é um pequeno time de pessoas, um Scrum Team. O Scrum
+Team consiste em um Scrum Master, um Product owner e Developers. Dentro de um Scrum
+Team, não há sub-times ou hierarquias. É uma unidade coesa de profissionais focados em um
+objetivo de cada vez, a Meta do Produto.
+Os Scrum Teams são multifuncionais, o que significa que os membros possuem todas as
+habilidades necessárias para criar valor a cada Sprint. Eles também são autogerenciáveis, o
+que significa que decidem internamente quem faz o quê, quando e como.
+O Scrum Team é pequeno o suficiente para permanecer ágil e grande o suficiente para concluir
+um trabalho significativo dentro de uma Sprint, normalmente 10 ou menos pessoas. Em geral,
+descobrimos que times menores se comunicam melhor e são mais produtivos. Se os Scrum
+Teams se tornarem muito grandes, eles devem considerar a reorganização em vários Scrum
+Teams coesos, cada um focado no mesmo produto. Portanto, eles devem compartilhar o
+mesma meta do produto, Product Backlog e Product Owner.
+O Scrum Team é responsável por todas as atividades relacionadas ao produto, desde a
+colaboração com stakeholder, verificação, manutenção, operação, experimentação, pesquisa e
+desenvolvimento, e qualquer outra coisa que possa ser necessária. Eles são estruturados e
+empoderados pela organização para gerenciar seu próprio trabalho. Trabalhar em Sprints em
+um ritmo sustentável melhora o foco e a consistência do Scrum Team.
+Todo o Scrum Team é responsável por criar um Incremento valioso e útil a cada Sprint. Scrum
+define três responsabilidades específicas dentro do Scrum Team: os Developers, o Product
+Owner e o Scrum Master.
+Developers
+Developers são as pessoas do Scrum Team que estão comprometidas em criar qualquer
+aspecto de um Incremento utilizável a cada Sprint.
+As habilidades específicas necessárias pelos Developers geralmente são amplas e variam de
+acordo com o domínio de trabalho. No entanto, os Developers são sempre responsáveis por:
+● Criar um plano para a Sprint, o Sprint Backlog;
+● Introduzir gradualmente qualidade aderindo a uma Definição de Pronto;
+
+7
+● Adaptar seu plano a cada dia em direção à meta da Sprint; e,
+● Responsabilizar-se mutuamente como profissionais.
+
+
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf
+(link da pagina tirada o conteudo)
