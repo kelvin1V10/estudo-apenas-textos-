@@ -16,6 +16,37 @@ cada dev pode se baser em responder(nao esta mais no guia scrum):
 	2."o que farei hoje?"
 	3."existe algum impedimento?"
 
+SCRUM - SPRINT PLANNING - EXECUCAO
+Sprint planning
+ planejamento da sprint: o que sera feito e como sera feito
+participantes: scrum master, product woner e developers
+o product owner apresenta os intens priorizados do product backlog.
+
+
+etapas:
+	scrum master da inicio.
+	product woner apresenta o backlog do product(as historias priorizadas)
+2. time analisa as historias do totpo do backlog
+	o time faz perguntas sobre cada historia para etender o que precisa ser feito
+	aqui a equipe discute funcionalidades, riscos, o que ja existe
+
+3. estimativa com palnning poker
+	qundo uma historia estiver clara, todos  devs usam cartas para estimar o esforço (story point)
+	revelam ao mesmo tempo.
+	se houver diferença grande, debatem, depois fazem rodada
+	assim, cada historia recebe story point antes de decidir se ale entra na sprint
+
+OQUE SAO SOTORY POINT	
+	story ponts sao uma medida usada para estimar o esforço relativo de uma tarefa
+	NAO e tempo(nao e em horas ou dias) e uma combinação de:
+dificuldade tecnica
+complexidade
+riscos ou incertezas
+
+
+o story point nao e um valor fixo e universal
+a gente sempre compra uma tarefa com outra dentro do mesmo grupo, com base nao oque estamos planejando agora.
+
 
 Em suma, Scrum requer um Scrum Master para promover um ambiente onde:
 1. Um Product Owner ordena o trabalho para um problema complexo em um Product
