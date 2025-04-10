@@ -2,6 +2,19 @@ definição do scrum
 
 Scrum e um framework leve que ajuda as pessoas, times e organizações e gerar valor por meio de soluções adaptativas para problemas complexos.
 
+daily Scrum
+
+reunião diaria de 15 minutos 
+participantes: apenas developers
+serve para:
+	inspecionar o progresso
+	ajustar o plano diario
+	identificar impedimentos 
+   
+cada dev pode se baser em responder(nao esta mais no guia scrum):
+	1. "oque fiz ontem?"
+	2."o que farei hoje?"
+	3."existe algum impedimento?"
 
 
 Em suma, Scrum requer um Scrum Master para promover um ambiente onde:
